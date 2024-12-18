@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CATALOG>
+  <CD>
+    <ingilizce>red</ingilizce>
+    <turkce>kırmızı</turkce>
+  </CD>
+  <CD>
+    <ingilizce>green</ingilizce>
+    <turkce>yeşil</turkce>
+  </CD>
+  <CD>
+    <ingilizce>blue</ingilizce>
+    <turkce>mavi</turkce>
+  </CD>
+</CATALOG>
